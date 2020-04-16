@@ -1,9 +1,8 @@
-## Welcome to GitHub Pages
+## I am James Fisher, Welcome!
 
-You can use the [editor on GitHub](https://github.com/jamesFisherDev/jamesFisherDev.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# About me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+James Fisher loves programming, writing, speaking, traveling, and lifting heavy things. He does not love talking about himself in the 3rd person. He is the co-founder of Gruntwork, a company that provides DevOps as a Service. He's also the author of two books published by O'Reilly Media: Hello, Startup and Terraform: Up & Running. Previously, he worked as a software engineer at LinkedIn, TripAdvisor, Cisco Systems, and Thomson Financial and got his BS and Masters at Cornell University. For more info, check out his writing, speaking, projects, and photos.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
